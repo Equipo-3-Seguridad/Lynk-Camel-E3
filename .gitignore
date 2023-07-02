@@ -1,0 +1,28 @@
+# Carpeta vendor generada por Composer
+/vendor/
+
+# Carpeta node_modules generada por npm
+/node_modules/
+
+# Archivos generados por el entorno de desarrollo
+.env
+.env.*
+.env.*/
+
+# Otros archivos y directorios generados por Laravel
+/public/storage/
+/storage/*.key
+/bootstrap/cache/
+
+# Logs y archivos temporales
+/storage/logs/
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/testing/
+/storage/framework/views/
+/storage/app/*.log
+
+# Archivos de configuración personalizados
+/config/*.php
+
+# Dependiendo de tu configuración y paquetes adicionales, puedes agregar más reglas aquí.
