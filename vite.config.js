@@ -8,6 +8,8 @@ export default defineConfig({
                 'resources/sass/app.scss',
                 'resources/css/app.css',
                 'resources/js/app.js',
+                'resources/css/verLog.css',
+                'resources/js/verLog.js',
             ],
             refresh: true,
         }),

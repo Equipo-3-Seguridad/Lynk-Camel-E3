@@ -4,10 +4,20 @@
     "isEntry": true,
     "src": "resources/css/app.css"
   },
+  "resources/css/verLog.css": {
+    "file": "assets/verLog-c76e1965.css",
+    "isEntry": true,
+    "src": "resources/css/verLog.css"
+  },
   "resources/js/app.js": {
     "file": "assets/app-52f17a42.js",
     "isEntry": true,
     "src": "resources/js/app.js"
+  },
+  "resources/js/verLog.js": {
+    "file": "assets/verLog-1f4cb767.js",
+    "isEntry": true,
+    "src": "resources/js/verLog.js"
   },
   "resources/sass/app.scss": {
     "file": "assets/app-3ea8b221.css",
